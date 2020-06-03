@@ -11,3 +11,7 @@ The data set consists of submissions users made to Hacker News from 2006 to 2015
 * `upvotes` - The number of upvotes the article received
 * `url` - The base URL of the article
 * `headline` - The article's headline
+
+## Conclusion
+
+Headlines may not be the best feature to predict upvotes since it is not necessarily indicative of the post activity. Comments or views may be a better feature to use as well as time posted.
