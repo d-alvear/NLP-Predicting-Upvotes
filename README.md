@@ -1,4 +1,6 @@
 # NLP: Predicting Upvotes Based on Headline
+
+View the notebook [here](https://nbviewer.jupyter.org/github/d-alvear/NLP-Predicting-Upvotes/blob/master/V2_notebook.ipynb), and the accompanying blog post [here](https://towardsdatascience.com/the-art-of-the-upvote-using-nlp-to-predict-upvotes-based-on-headline-458408be3c73).
 ## Introduction
 Hacker News is a community where users can submit articles, and other users can upvote those articles. The articles with the most upvotes make it to the front page, where they're more visible to the community.
 ## Goal
